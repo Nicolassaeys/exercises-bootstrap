@@ -1,0 +1,24 @@
+.column, .special {
+    background-color: rgb(205, 173, 218);
+    border: black solid 2px;
+    text-align: center;
+    border-radius: 5px;
+    
+    
+}
+
+div[class^="col"] { 
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+h1 {
+    font-size: 25px;
+}
+
+.respo {
+    background-color: rgb(206, 203, 224);
+    border: rgb(129, 127, 127) solid 1px;
+    text-align: center;
+    
+}
